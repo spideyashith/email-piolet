@@ -1,0 +1,12 @@
+# Node
+node_modules/
+.next/   
+
+# Env files
+.env
+.env.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
